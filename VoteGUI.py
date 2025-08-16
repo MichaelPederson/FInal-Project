@@ -13,7 +13,8 @@ class Ui_MainWindow(object):
 
     def setupUi(self, MainWindow):
         '''
-        :return: Creates the GUI, line edit, and buttons
+        Creates the GUI, line edit, and buttons
+        :return:
         '''
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(160, 170)
